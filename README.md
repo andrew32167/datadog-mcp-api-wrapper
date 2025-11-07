@@ -185,12 +185,9 @@ Both tools support the full Datadog query syntax:
 
 ## Integration with MCP Clients
 
-### Claude Desktop
+### Claude
 
-Add to your Claude Desktop config file:
-
-**macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
-**Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+Add to your Claude config file:
 
 ```json
 {
